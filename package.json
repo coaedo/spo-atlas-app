@@ -1,0 +1,10 @@
+{
+  "name": "spo-atlas-help",
+  "version": "0.1.0",
+  "description": "In-app help web component for the Turner SPO Production Monitor",
+  "main": "src/atlas-help.js",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "keywords": ["web-component", "spo", "turner", "atlas"]
+}
