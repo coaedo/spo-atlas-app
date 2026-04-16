@@ -6,5 +6,13 @@
   "scripts": {
     "dev": "npx serve ."
   },
-  "keywords": ["web-component", "spo", "turner", "atlas"]
+  "keywords": [
+    "web-component",
+    "spo",
+    "turner",
+    "atlas"
+  ],
+  "devDependencies": {
+    "vercel": "^51.4.0"
+  }
 }
